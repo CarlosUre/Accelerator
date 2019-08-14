@@ -1,2 +1,2 @@
-# Accelerator
+# Fortran
 ewe
